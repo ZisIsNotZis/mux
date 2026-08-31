@@ -4,19 +4,20 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-## Quick start
+## Quickstart
 
 Inspect the scripts before running them, then invoke the one matching your workflow:
 
+Prerequisite: Bash and `tmux`. Review the scripts, then run the workflow from this directory:
+
 ```bash
-bash app.sh
-bash split.sh
+./split.sh
 ```
 
 These scripts are intentionally small wrappers around local media tooling. They are **workflow helpers**, not a full media library or portable API.
 
-## Safety and roadmap
+## Safety, versioning, and help
 
-Use copies of valuable media and confirm the input/output paths in each script. Future improvements: explicit CLI arguments, dependency checks, dry-run mode, and examples for common containers.
+Use copies of valuable media and confirm paths. Current version is **0.1.0** ([`VERSION`](VERSION)); changes are in [`CHANGELOG.md`](CHANGELOG.md). Future improvements: explicit CLI arguments, dependency checks, dry-run mode, and common-container examples.
 
-Issues and focused patches are welcome. Licensed under AGPL-3.0-only; see [`LICENSE`](LICENSE).
+Issues and focused patches are welcome. Agents may help triage, investigate, test, and document accepted work; maintainers review and merge. See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`docs/project-status.md`](docs/project-status.md). Licensed under AGPL-3.0-only; see [`LICENSE`](LICENSE).
