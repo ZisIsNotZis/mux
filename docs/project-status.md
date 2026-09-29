@@ -2,7 +2,13 @@
 
 ## Classification
 
-**useful** — two small shell scripts provide a local tmux FIFO demonstration workflow.
+**useful** (closed milestone) — two small shell scripts provide a local tmux FIFO demonstration workflow.
+
+## Status
+
+Closed as a milestone (2026-09-29). The helpers are complete; no further
+development is planned unless the project's inputs or goals change. The
+previously listed future improvements are deferred, not required.
 
 ## Naming and publication
 

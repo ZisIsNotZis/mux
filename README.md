@@ -1,5 +1,9 @@
 # Mux 🛠️
 
+> **Status: closed (milestone, 2026-09-29).** Complete small tmux media
+> mux/split helpers. No further development is planned unless the project's
+> inputs or goals change.
+
 > Tiny shell utilities for muxing and splitting local media files.
 
 [English](README.md) · [简体中文](README.zh-CN.md)
