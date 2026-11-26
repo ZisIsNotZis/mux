@@ -1,6 +1,6 @@
 # mux
 
-**项目状态 · 已完成（2026-11-26）**。实际是小 tmux FIFO 分流示例。隔离 tmux 会话真实看到两个 pane 的 0+/1+ 与 0-/1-，shell 检查通过。当前 README 将名称误解成媒体 mux。 [验收记录](COMPLETION.md)。
+**项目状态 · 已完成（2026-11-26）**。实际是小 tmux FIFO 分流示例。隔离 tmux 会话真实看到两个 pane 的 0+/1+ 与 0-/1-，shell 检查通过。[验收记录](COMPLETION.md)。
 
 A tmux example that routes stdout and stderr into separate panes.
 
